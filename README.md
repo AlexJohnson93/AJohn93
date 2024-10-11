@@ -1,2 +1,2 @@
-# AJohn93
+# ClassPro
 Personal class projects
